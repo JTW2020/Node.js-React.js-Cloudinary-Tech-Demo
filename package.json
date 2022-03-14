@@ -1,0 +1,23 @@
+{
+  "name": "node.js-react.js-cloudinary-tech-demo",
+  "version": "1.0.0",
+  "description": "This Is a tech demo project that I am creating with the aim of learning how to use node, react, and cloudinary by implementing this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTW2020/Node.js-React.js-Cloudinary-Tech-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTW2020/Node.js-React.js-Cloudinary-Tech-Demo/issues"
+  },
+  "homepage": "https://github.com/JTW2020/Node.js-React.js-Cloudinary-Tech-Demo#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
